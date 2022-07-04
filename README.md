@@ -1,3 +1,3 @@
 //main bar
 Const=1
-Var
+Var=main
